@@ -1,5 +1,5 @@
-# WPFchart
+# WPF Chart
 
-## Dependencies:
+### Dependencies:
 * Mathos Parser
 * Xceed Wpf Toolkit
