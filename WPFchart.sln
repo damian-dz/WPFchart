@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFchart", "WPFchart\WPFchart.csproj", "{EB1E8419-0C53-44EE-BC18-CDD2C197C24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1E8419-0C53-44EE-BC18-CDD2C197C24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1E8419-0C53-44EE-BC18-CDD2C197C24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1E8419-0C53-44EE-BC18-CDD2C197C24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1E8419-0C53-44EE-BC18-CDD2C197C24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4EC1845-ADDD-4A37-9C81-56A84884405C}
+	EndGlobalSection
+EndGlobal
